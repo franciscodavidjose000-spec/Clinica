@@ -1,0 +1,6 @@
+{
+  "name": "Clínica de Dor JJ 26 de Julho - Soyo",
+  "description": "Website oficial da Clínica de Dor JJ 26 de Julho no Soyo, Angola. Especialistas em Ozonoterapia, Fisioterapia, Hérnias Discais, Nervo Ciático e Odontologia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
